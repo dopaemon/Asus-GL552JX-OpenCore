@@ -14,7 +14,7 @@ Storage |	128 GB SSD + 1 TB 2.5″ HDD + NVME SSD M.2 Slot
 Connectivity |	Wireless AC Intel 7265 , Gigabit Lan, Bluetooth 4.0
 Ports | 1x USB 2.0,	2x USB 3.0, 1x USB 3.1, HDMI, mic, earphone, SD card reader, LAN
 TouchPad | Elan Touchpad (ELAN1000)
-
+LAN | Realtek RTL8111
 # What works
 
 * Intel HD Graphics 4600
